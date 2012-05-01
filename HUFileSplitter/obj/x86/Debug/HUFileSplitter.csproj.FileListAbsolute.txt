@@ -1,0 +1,5 @@
+C:\Users\bgardner.TIGERNATURALGAS\documents\visual studio 2010\Projects\HUFileSplitter\HUFileSplitter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bgardner.TIGERNATURALGAS\documents\visual studio 2010\Projects\HUFileSplitter\HUFileSplitter\bin\Debug\HUFileSplitter.exe
+C:\Users\bgardner.TIGERNATURALGAS\documents\visual studio 2010\Projects\HUFileSplitter\HUFileSplitter\bin\Debug\HUFileSplitter.pdb
+C:\Users\bgardner.TIGERNATURALGAS\documents\visual studio 2010\Projects\HUFileSplitter\HUFileSplitter\obj\x86\Debug\HUFileSplitter.exe
+C:\Users\bgardner.TIGERNATURALGAS\documents\visual studio 2010\Projects\HUFileSplitter\HUFileSplitter\obj\x86\Debug\HUFileSplitter.pdb
